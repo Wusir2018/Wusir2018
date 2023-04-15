@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wu.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wusir2018&label=Profile%20views&color=0e75b6&style=flat" alt="Wusir2018" /> </p>
 
-- 🔭 I’m currently working on Chongqing University of Science and Technology.
+- 🔭 I’m currently working on School of Electrical Engineering, Chongqing University of Science and Technology.
 
-- 🚀 I have received PhD degree majoring in electrical engineering at School of Electrical Engineering, Chongqing University.
+- 🚀 I have received PhD degree majoring in electrical engineering at School of Electrical Engineering, Chongqing University, in 2022.
 
 - 📫 How to reach me **570686385[@]qq.com**
 
