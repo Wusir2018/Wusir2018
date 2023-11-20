@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi 👋, I'm Wu.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wusir2018&label=Profile%20views&color=0e75b6&style=flat" alt="Wusir2018" /> </p>
 
@@ -15,7 +16,7 @@
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=0e75b6)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0e75b6)
-
+-->
 
 
 
